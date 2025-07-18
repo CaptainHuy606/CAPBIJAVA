@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15995c6b-1f8e-47ae-a9ee-a831ad2c47c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../bai1b/src/bai1b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1b/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1b/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1b/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1b/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi2/buoi2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1b/bai1b.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bai2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="303NaFjxIeFWP7WRIlZBecqO8zx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.bai2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "D:/Java Hit Public/bai2/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15995c6b-1f8e-47ae-a9ee-a831ad2c47c5" name="Changes" comment="" />
+      <created>1752852361894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752852361894</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bai2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
